@@ -1,0 +1,7 @@
+5
+tovar1 firma1 10
+tovar2 firma1 20
+tovar1 firma3 5
+tovar1 firma2 30
+tovar3 firma3 50
+firma3
